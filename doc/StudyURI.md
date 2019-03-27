@@ -114,10 +114,10 @@ Following the prescribed  syntax of the Study URI means that the Unique Identifi
 ## Recommended Predicates
 *Section under development.*
 
-| Predicate            | Object Description   |
-| ---------------------|:-------------:|
+| Predicate            | Object Description   | WD Property | WD current coverage |
+| ---------------------|:-------------:|:-------------:|:-------------:|
 | hasEudraCTID         | EudraCT ID number.  | 
-| hasNCTID             | ClinicalTrials.gov ID (NCT number)   |
+| hasNCTID             | ClinicalTrials.gov ID (NCT number)   | [P3098](https://www.wikidata.org/wiki/Property:P3098) | [27600](http://tinyurl.com/y2jebs52)
 | hasUUID              | UUID used to form Study URI 
 | hasUUIDCreateDate    | Date UUID created
 | hasUUIDCreateMethod  | Method used to generate UUID
